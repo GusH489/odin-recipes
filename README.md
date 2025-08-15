@@ -1,2 +1,4 @@
 # odin-recipes
-HTML Project for the Odin Project Course
+HTML Project for the Odin Project Course.
+This project has taught me about hmtl elements such as paragraph elements <p>, header elements <h1> <h2>, and text styling elements such as <strong> that make text bold, and <em> that emphazises text with an italic font. In addition to the list element which allows you to implement organized and unorganized lists.
+The Most useful parts of this html courses have to do with anchor elements and its attributes. The target attribute decided wether to open the link in a new tab or in the current tab. The rel attribute decided wether the the new opened website can interact and learn from the current website.
